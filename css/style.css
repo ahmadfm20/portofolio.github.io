@@ -1,0 +1,137 @@
+#main-navbar{
+    z-index: 100;
+}
+#main-navbar a{
+    border-bottom: 3px solid #ffffff;
+}
+
+#main-navbar a:hover, #main-navbar .active{
+    border-bottom-color: #87CEEB;
+    transform: border-color 500ms;
+}
+
+body{
+    background: linear-gradient(#2138b7 0%, #102599 40%, #135cda 100%)
+}
+.navbar {
+    height: 65px;
+}
+.profile {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+#coll{
+    margin-top: 200px;
+    margin-right: 200px;
+}
+#coll h4{
+    font-size: medium;
+    margin-top: 20px;
+}
+#colll{
+    margin-top: 150px;
+}
+.profileimage{
+    width: 300px;
+}
+.profile h1{
+    color: white;
+}
+.profile h3{
+    color: white;
+    transform: translateY(-10px);
+    margin-top: 10px;
+}
+.profile p{
+    color: white;
+}
+.imgcol{
+    width: 300px;
+}
+img {
+    width: 200px;
+}
+.icon {
+    color: black;
+    font-size: 40px;
+}
+.about img{
+    float: right;
+    width: 300px;
+    margin-inline-end: 2000px;
+    margin-top: 20px;
+}
+.aboutt{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.box-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin: 2rem;
+}
+.skill{
+    margin-top: 35px;
+}
+#thn{
+    margin-top: 20px;
+}
+#lima{
+    gap: 5px;
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+#lima h1{
+    font-size: 70px;
+}
+#skil{
+    margin-left: 160px;
+}
+.abouts {
+    padding-top: 70px;
+}
+.iconskil{
+    padding-top: 70px;
+}
+#skillall{
+    color: white;
+}
+#iconskill{
+    margin-top: 40px;
+}
+.iconeducation{
+    padding-top: 70px;
+    margin-bottom: 50px;
+}
+.ccard{
+    color: aquamarine;
+}
+.iconcontact{
+    padding-top: 75px;
+
+}
+#contactameall{
+    color: white;
+}
+.iconbtn{
+    margin-bottom: 50px;
+}
+.iconlast li{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.iconsize{
+    font-size: 40px;
+}
+.iconcontatcs{
+    margin-bottom: 5px;
+}
+#aboutall{
+    background-color: #f3f4f5;
+}
+#educationall{
+    background-color: #f3f4f5;
+}
